@@ -2,3 +2,5 @@
 # Anybody is allowed to pull request if you feel is needed.
 # Be polite and keep healthy conversations here.
 # Let's together learn and upskill.
+# This is just a clone project for the education purpose.
+# Rest all rights reserved to Netflix.com.
